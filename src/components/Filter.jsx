@@ -32,7 +32,7 @@ export const Filter = () => {
         </div>
         <div>
           <input type="checkbox" name="ideal for women" id="ideal for women" />
-          <label className="ml-2" htmlFor="ideal for men">
+          <label className="ml-2" htmlFor="ideal for women">
             Ideal for women
           </label>
         </div>
