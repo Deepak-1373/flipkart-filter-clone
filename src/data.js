@@ -56,6 +56,7 @@ export const products = [
     brandName: "KILLER",
     productName: "Men Pyjama",
     price: 689,
+    idealFor: "men",
     sizes: ["s", "m", "xl"],
   },
   {
